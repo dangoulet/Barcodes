@@ -2,6 +2,7 @@
 Dan Goulet Hemann Lab MIT 2021
 
 This readme file outlines the basic steps for the processing and quantitation of the barcode libraries using for single-cell tracking in the Hemann lab.
+
 Basic workflow:
 1) Find a consensus sequence from 150-cycle 75 bp paired-end sequencing run using Pear
 2) Extract sequence from Pear output
